@@ -31,3 +31,4 @@ class DrivableTrader extends Trader<Drivable>{
         }
 
     }
+}
